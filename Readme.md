@@ -19,11 +19,12 @@
 #### :rocket: Finalizado!
 
 ### Author:
-<a href="https://www.linkedin.com/in/bruno-reis-9a937b189/" color="red">
+<a href="https://www.linkedin.com/in/bruno-reis-9a937b189/">
  <img src="https://avatars2.githubusercontent.com/u/52367484?s=460&u=5a917d71b664f841735989d9bff4f2482a3d2ab6&v=4" width="100px;" alt="Bruno Reis" style="border-radius: 50%;" />
  <br />
  <sub><b>Bruno Reis :rocket:</b></sub>
 </a>
 
-<a href="https://www.linkedin.com/in/bruno-reis-9a937b189/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
-<a href="mailto:b.macedoreis@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+
+<a href="https://www.linkedin.com/in/bruno-reis-9a937b189/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
+<a href="mailto:b.macedoreis@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
