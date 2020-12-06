@@ -19,8 +19,8 @@
 #### :rocket: Finalizado!
 
 ### Author:
-<a href="https://www.linkedin.com/in/bruno-reis-9a937b189/" style="color: #000, font-size: 20px;">
- <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/52367484?s=460&u=5a917d71b664f841735989d9bff4f2482a3d2ab6&v=4" width="100px;" alt="Bruno Reis"/>
+<a href="https://www.linkedin.com/in/bruno-reis-9a937b189/" color="red">
+ <img src="https://avatars2.githubusercontent.com/u/52367484?s=460&u=5a917d71b664f841735989d9bff4f2482a3d2ab6&v=4" width="100px;" alt="Bruno Reis" style="border-radius: 50%;" />
  <br />
  <sub><b>Bruno Reis :rocket:</b></sub>
 </a>
