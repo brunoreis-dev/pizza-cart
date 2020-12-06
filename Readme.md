@@ -16,7 +16,7 @@
 
 
 ### Status: 
-#### :rocket: Finalizado!
+#### :rocket:  Finalizado!
 
 ### Author:
 <a href="https://www.linkedin.com/in/bruno-reis-9a937b189/">
